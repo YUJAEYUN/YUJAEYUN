@@ -2,7 +2,8 @@
 ![Profile Top Banner](https://capsule-render.vercel.app/api?type=waving&color=FC7323&height=240&section=header&text=Jaeyun%20Yu&fontAlign=20&fontAlignY=35&fontSize=40&fontColor=ffffff&desc=&descAlign=14&descAlignY=50)
 
 <h3>유재윤</h3>
-개발자 취업을 꿈꾸는 컴퓨터공학과 학부생입니다.
+같이 일하고 싶은 개발자를 희망하는 컴퓨터공학과 학부생입니다.
+
 <br>
 <br>
 <p><b>🔍 Skills 🔍</b></p>
