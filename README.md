@@ -50,7 +50,7 @@
   <b>🌎 Linguistics 🌎</b> 
 </p>
 
-**TOEIC 550** 25.01.12 - xx.xx.xx 
+**TOEIC 550** 25.01.12
 
 <br>
 
