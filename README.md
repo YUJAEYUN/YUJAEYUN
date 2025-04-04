@@ -26,6 +26,10 @@
 
 <br>
 
+<div align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YUJAEYUN&theme=tokyonight" height="150px"/>
+</div>
+
 <p>
 <b>🎓 Education 🎓</b>
   </p>
