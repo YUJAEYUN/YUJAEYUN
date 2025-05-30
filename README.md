@@ -1,5 +1,6 @@
-
-![Profile Top Banner](https://capsule-render.vercel.app/api?type=waving&color=FC7323&height=240&section=header&text=Jaeyun%20Yu&fontAlign=20&fontAlignY=35&fontSize=40&fontColor=ffffff&desc=&descAlign=14&descAlignY=50)
+<div align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YUJAEYUN&theme=tokyonight" height="150px"/>
+</div>
 
 <h3>유재윤</h3>
 같이 일하고 싶은 개발자를 희망하는 컴퓨터공학과 학부생입니다.
@@ -15,9 +16,7 @@
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge">
 
-<br>
 
-<br />
 <b>🤝
  Collaboration 🤝
 </b>
@@ -26,9 +25,6 @@
 
 <br>
 
-<div align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YUJAEYUN&theme=tokyonight" height="150px"/>
-</div>
 
 <p>
 <b>🎓 Education 🎓</b>
@@ -71,8 +67,14 @@
 >
 > - 개발기간 : 2024.09.19-12.05
 > - 핵심 역할 : 전반적인 어플리케이션 기능 구현, 큐싱사기 방지 알고리즘 설계, 로그인기능, API설계 및 구현
+>   
+> [오픈소스sw프로그래밍_최종발표_-찐최종.pdf](https://github.com/user-attachments/files/20513368/sw._._-.pdf)
+
 >
 2. 시너지
 > Persuasive Design 기반 탄소중립 실천 유도형 대학생활 OS 개발
 > - 개발기간 : 2025.04.27-05.28
 > - 핵심 역할 : OPENAI api와 프롬프트 튜닝으로 분리배출 챗봇, 탄소중립활동 검증 시스템 개발, 프로젝트 전반적인 기능 연결
+>   
+> [대학생을-위한-탄소중립실현-유도-어플리케이션_Cnergy.pdf](https://github.com/user-attachments/files/20513370/-.-.-.-._Cnergy.pdf)
+
