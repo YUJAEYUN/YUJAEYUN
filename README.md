@@ -44,7 +44,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YUJAEYUN&theme=tokyonight" height="150px"/>
   </div>
 </div>
-[![Solved.ac 랭킹](https://github-profile-trophy.vercel.app/?username=yujeayoon13&theme=nord&no-bg=true&no-frame=true&row=1&column=7)](https://solved.ac/yujeayoon13)
+[![solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yujeayoon13)](https://solved.ac/yujeayoon13)
 
 ### 📝Projects
 
