@@ -36,7 +36,7 @@
       <div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YUJAEYUN&theme=tokyonight" height="150px"/>
 </div>
-        [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={yujeayoon13})](https://solved.ac/{yujeayoon13})
+        [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yujeayoon13)](https://solved.ac/yujeayoon13)
     </div>
     
 
