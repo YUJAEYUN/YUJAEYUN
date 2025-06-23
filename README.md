@@ -1,63 +1,43 @@
-<div align="left">
+<div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 같이 일하고 싶은 개발자가 되고 싶은 컴퓨터공학과 학부생입니다. </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 추후 작성 예정 </div> 
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+          <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
+          <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=Expo&logoColor=white">
+          <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
+          <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+          <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
+          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+          <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+          <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
+          <img src="https://img.shields.io/badge/Eslint-4B32C3?style=for-the-badge&logo=Eslint&logoColor=white">
+          <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
+          <br/></div>
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <div style="text-align: left;"> <a href=https://velog.io/@zzae_zze/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@zzae_zze/posts"> </a>
+         <a href=zzae._.zze> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=zzae._.zze"> </a>
+          </div>  <br> 
+    <div style="text-align: left;"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYUJAEYUN%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
+       </div> 
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=YUJAEYUN&custom_title=YUJAEYUN's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
+        /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YUJAEYUN&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
+          /> </div> 
+      <div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YUJAEYUN&theme=tokyonight" height="150px"/>
 </div>
-
-<h3>유재윤</h3>
-같이 일하고 싶은 개발자를 희망하는 컴퓨터공학과 학부생입니다.
-
-<br>
-<br>
-<p><b>🔍 Skills 🔍</b></p>
-
-**Stack**  
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge">
-
-
-<b>🤝
- Collaboration 🤝
-</b>
-
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-
-<br>
-
-
-<p>
-<b>🎓 Education 🎓</b>
-  </p>
-
-**2021.02 - **  
-국립한밭대학교 컴퓨터공학과
-
-<br>
-<p>
-  <b>🏆 Awards 🏆</b>  
-</p>
-
-**2024.11.21**  구름에서 주최한 2024년 전국 대학생 프로그래밍 경진대회 장려상
-
-**2024.12.02**  2024학년도 컴퓨터공학과 포트폴리오경진대회 수상(Tabatshu팀)
-
-<!--
-<img src="/logo/ringo.png" height="30"/>
-<img src="/logo/ontheblock.png" height="30"/>
-<img src="/logo/senabo.png" height="30"/>
--->
-<br>
-<p>
-  <b>🌎 Linguistics 🌎</b> 
-</p>
-
-**TOEIC 615** 25.02.23
-
-<br>
-
-[![코드트리|실력진단-yujaeyun](https://banner.codetree.ai/v1/banner/yujaeyun)](https://www.codetree.ai/profiles/yujaeyun)
-<br />
+    </div>
+    
 
 ### 📝Projects
 
