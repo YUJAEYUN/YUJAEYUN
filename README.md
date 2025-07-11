@@ -1,7 +1,6 @@
-I'm a Computer Science student with a strong ambition to become a highly effective and collaborative developer. 
-Beyond technical expertise, I'm committed to fostering an environment where teamwork and shared values drive project success. 
-I consistently seek opportunities for growth and challenge myself to create robust solutions that provide significant value to users. 
-My approach prioritizes clear communication and active participation to contribute meaningfully to team goals.
+# Computer Science Student | Collaborative Developer
+
+I'm a Computer Science student with a strong ambition to become a highly effective and collaborative developer. Beyond technical expertise, I'm committed to fostering an environment where **teamwork and shared values** drive project success. I consistently seek opportunities for growth and challenge myself to create robust solutions that provide significant value to users. My approach prioritizes **clear communication and active participation** to contribute meaningfully to team goals.
 
 ---
 
