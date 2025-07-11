@@ -1,9 +1,6 @@
 <div align="center">
-  <h1 style="border-bottom: 1px solid #d8dee4; padding-bottom: 8px;">같이 일하고 싶은 개발자가 되고 싶은 컴퓨터공학과 학부생입니다.</h1>
   <p style="font-weight: 700; font-size: 15px; color: #282d33;">
-    컴퓨터공학을 전공하며 기술적인 역량뿐만 아니라, <span style="font-weight: 800;">'함께'의 가치</span>를 아는 개발자로 성장하고자 합니다.
-    <br>긍정적인 태도로 소통하고 협력하여, 팀의 목표 달성에 기여하는 것을 중요하게 생각합니다.
-    <br>지속적인 학습과 도전을 통해 더 나은 코드를 만들고, 사용자에게 유의미한 가치를 제공하는 데에 몰두합니다.
+    I am a Computer Science student with a strong ambition to become a highly effective and collaborative developer. Beyond technical expertise, I am committed to fostering an environment where teamwork and shared values drive project success. I consistently seek opportunities for growth and challenge myself to create robust solutions that provide significant value to users. My approach prioritizes clear communication and active participation to contribute meaningfully to team goals.
   </p>
 </div>
 
