@@ -1,8 +1,9 @@
-<div align="center">
-  <p style="font-weight: 700; font-size: 15px; color: #282d33;">
-    I am a Computer Science student with a strong ambition to become a highly effective and collaborative developer. Beyond technical expertise, I am committed to fostering an environment where teamwork and shared values drive project success. I consistently seek opportunities for growth and challenge myself to create robust solutions that provide significant value to users. My approach prioritizes clear communication and active participation to contribute meaningfully to team goals.
-  </p>
-</div>
+I'm a Computer Science student with a strong ambition to become a highly effective and collaborative developer. 
+Beyond technical expertise, I'm committed to fostering an environment where teamwork and shared values drive project success. 
+I consistently seek opportunities for growth and challenge myself to create robust solutions that provide significant value to users. 
+My approach prioritizes clear communication and active participation to contribute meaningfully to team goals.
+
+---
 
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; padding-bottom: 8px;">🛠️ Tech Stacks</h2>
