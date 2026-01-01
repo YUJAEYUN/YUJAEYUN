@@ -34,6 +34,7 @@ I'm a Computer Science student with a strong ambition to become a highly effecti
   <p>
     <a href="https://velog.io/@zzae_zze/posts"> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"> </a>
     <a href="https://instagram.com/zzae._.zze"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> </a>
+    <a href="https://www.linkedin.com/in/jaeyunyu/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
   </p>
 </div>
 
