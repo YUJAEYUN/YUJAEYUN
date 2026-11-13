@@ -46,5 +46,4 @@ I'm a Computer Science student with a strong ambition to become a highly effecti
     <br/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YUJAEYUN&theme=tokyonight" height="150px"/>
   </p>
   
-  [![solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yujeayoon13)](https://solved.ac/yujeayoon13)
 </div>
